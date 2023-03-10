@@ -5,7 +5,12 @@
         <TargetFrameworks Condition="$([MSBuild]::IsOSPlatform('windows'))">$(TargetFrameworks);net7.0-windows10.0.19041.0</TargetFrameworks>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <Version>1.0.1</Version>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Maui Blazor Composite Ui</Title>
+        <PackageProjectUrl>https://github.com/OriginalPato/Maui.CompositeUi</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/OriginalPato/Maui.CompositeUi</RepositoryUrl>
+        <PackageTags>Maui</PackageTags>
     </PropertyGroup>
 
     <ItemGroup>
