@@ -15,7 +15,7 @@ jobs:
       BUILD_CONFIG: 'Release'
       SOLUTION: 'Maui.CompositeUi.sln'
 
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
 
     steps:
     - uses: actions/checkout@v2
