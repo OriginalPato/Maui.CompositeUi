@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 
-namespace Maui.CompositeUi;
+namespace Maui.Blazor.CompositeUi;
 
 public interface IRemoteDependencyResolver
 {

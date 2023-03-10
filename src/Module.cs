@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace Maui.CompositeUi;
+namespace Maui.Blazor.CompositeUi;
 
 public class Module
 {   

@@ -1,6 +1,6 @@
 ﻿using Microsoft.Maui.Controls;
 
-namespace Maui.CompositeUi;
+namespace Maui.Blazor.CompositeUi;
 
 public class RemoteDependencyResolver : IRemoteDependencyResolver
 {

@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace Maui.CompositeUi;
+namespace Maui.Blazor.CompositeUi;
 
 public interface IModuleAssemblyService
 {

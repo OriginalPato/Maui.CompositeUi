@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Maui.Hosting;
 
-namespace Maui.CompositeUi;
+namespace Maui.Blazor.CompositeUi;
 
 public static class ModuleHelpers
 {

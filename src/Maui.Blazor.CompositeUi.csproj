@@ -11,6 +11,13 @@
         <PackageProjectUrl>https://github.com/OriginalPato/Maui.CompositeUi</PackageProjectUrl>
         <RepositoryUrl>https://github.com/OriginalPato/Maui.CompositeUi</RepositoryUrl>
         <PackageTags>Maui</PackageTags>
+        <AssemblyName>Maui.Blazor.CompositeUi</AssemblyName>
+        <RootNamespace>Maui.Blazor.CompositeUi</RootNamespace>
+        <PackageId>OriginalPato.Maui.Blazor.CompositeUi</PackageId>
+        <Authors>Maui.Blazor.CompositeUi</Authors>
+        <Company>Maui.Blazor.CompositeUi</Company>
+        <Product>Maui.Blazor.CompositeUi</Product>
+        <AssemblyVersion>1.0.1</AssemblyVersion>
     </PropertyGroup>
 
     <ItemGroup>
